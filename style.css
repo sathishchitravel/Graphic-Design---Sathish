@@ -1,15 +1,16 @@
 header {
-    height: 119px;
+    height: 130px;
     padding-left: 30px;
     padding-top: 17px;
-    background-color: #1a512e;
+    background-color: #2a2d36;
     }
 main {
     height: 540px;
+    background-color: #c4c4c5;
 }
 h1 {
     font-size: 53px;
-    color: #c6dc93;
+    color: #fab518;
     font-family: "Ranchers", sans-serif;
     }
 h2 {
@@ -53,6 +54,7 @@ ul {
 footer {
     vertical-align: bottom;
     text-align: center;
-    color: grey;
+    color: #54525266;
     font-family: "Lexend", sans-serif;
+    background-color: #c4c4c5;
 }
