@@ -2,13 +2,14 @@ header {
     height: 119px;
     padding-left: 30px;
     padding-top: 17px;
+    background-color: #1a512e;
     }
 main {
     height: 540px;
 }
 h1 {
     font-size: 53px;
-    color: #8f1227;
+    color: #c6dc93;
     font-family: "Ranchers", sans-serif;
     }
 h2 {
@@ -21,11 +22,12 @@ h3 {
     margin-left: 2px;
     margin-top: 1px;
     font-family: "Inconsolata", monospace;
+    color: #fdfdfd;
     }
 p {
     font-size: 39px;
     margin-top: 7px;
-    color: #035770;
+    color: #fdfdfd;
     margin-left: 1px;
     font-family: "Alumni Sans Pinstripe", sans-serif;
 }
